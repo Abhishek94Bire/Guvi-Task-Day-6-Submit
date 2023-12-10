@@ -7,9 +7,9 @@ let vehicleType = ["SUV", "SEDAN", "AUTO", "BIKE"];
 let vehicleCharges = [50,80,30,10]
 
 //User Inputs
-let customerName = "Hema"
+let customerName = "Abhi"
 let customerCity = "Coimbatore"
-let customerGender = "Female" 
+let customerGender = "male" 
 let customerPreferredVehicle = "SEDAN"
 
 console.log(`Hai, ${customerName} Welcome to Uber... Your Preferred Vehicle is ${customerPreferredVehicle}`)
